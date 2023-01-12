@@ -10,4 +10,4 @@ class Shape{
 
 // export class using module.exports
 
-module.exports = Shape;
+export default Shape;
