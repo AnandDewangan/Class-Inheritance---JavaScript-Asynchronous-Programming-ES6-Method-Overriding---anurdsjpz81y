@@ -9,5 +9,4 @@ class Shape{
 }
 
 // export class using module.exports
-
-export default Shape;
+module.exports = Shape;
